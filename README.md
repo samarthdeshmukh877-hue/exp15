@@ -144,12 +144,3 @@ Used for variables like **Payment Method, Product Category**
 
 The experiment demonstrates that proper preprocessing is essential before analysis. Normalization ensures that numerical features are comparable, while encoding enables categorical data to be used effectively. The choice of technique directly affects how the data is interpreted, making it important to select methods based on the nature of the dataset and the objective of analysis.
 
----
-
-## 👨‍🎓 Student Details
-
-* **Name:** Rachit Jajoo
-* **PRN:** 25070123088
-* **Branch:** Electronics and Telecommunication (ENTC)
-* **Batch:** B1
-* **Institute:** Symbiosis Institute of Technology, Pune
